@@ -1,0 +1,19 @@
+Explorer lʼhistorique sur GitHub. Quʼest-ce quʼon a ?
+
+- on a l'historique des commits qui ont été fait sur notre projet git
+
+Cliquer sur un commit et observer le diff. Quʼest-ce quʼon a ?
+
+- on peu voir les lignes/fichiers supprimées et ajoutées
+
+Quelle est la différence entre git push et git commit ?
+
+- git commit vas enregistrer les modifications localement et push vas les upload vers github
+
+Que permet GitHub que Git seul ne fait pas ?
+
+- Github permet de partager et sauvegarder des projets git entre different pcs pour collaborer
+
+Quels avantages pour le travail collaboratif demain ?
+
+- Cela nous permettra de partager le projet git entre different pcs
